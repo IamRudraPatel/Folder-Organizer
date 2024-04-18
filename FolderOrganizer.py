@@ -43,7 +43,7 @@ def make_unique(fileType, file):
     while os.path.exists(f'{NewDir}/{fileType}/{file}'):
         file = f"{filename}{str(count)}{extension}"
         count+=1
-    return file
+    return file 
         
 def image_files(file):
     newName = make_unique('Image Files', file)
