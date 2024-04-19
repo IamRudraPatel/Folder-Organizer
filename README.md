@@ -36,4 +36,5 @@ Feel free to modify the script to support additional file types or customize the
 • Make sure to provide the correct path to your desired folder.                                                              
 • The script will create subfolders within the 'input_folder' and organize files accordingly.
 
+
 Thank you for using Folder Organizer! 📁🔖
